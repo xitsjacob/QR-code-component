@@ -63,4 +63,3 @@ To see my learnt methods code snippets, see below:
 
 - Website - [https://xitsjacob.netlify.app/](https://xitsjacob.netlify.app/)
 - Frontend Mentor - [@xItsJacob](https://www.frontendmentor.io/profile/xitsjacob)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
